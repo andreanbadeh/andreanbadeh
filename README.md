@@ -4,8 +4,7 @@
 
 As a first semester Informatics Engineering student at Pelita Bangsa University, I have a great interest in technology and always want to follow the latest trends in the world.
 <!-- ## 🌐 Socials: -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatkhurrhn/) 
- 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/story.thur)
 <!-- ## 💻 Technical Skills:
 
 - **Frontend Development:** HTML/CSS3, JavaScript, Bootstrap :v
