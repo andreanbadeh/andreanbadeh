@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatkhur03&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
 # Hi 👋! I'm Andrean Putra Arya
 
 As a first semester Informatics Engineering student at Pelita Bangsa University, I have a great interest in technology and always want to follow the latest trends in the world.
